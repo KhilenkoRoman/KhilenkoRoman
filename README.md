@@ -9,7 +9,7 @@ Project 1:  Multiproduct Real Estate SaaS Maximizing Workplace for Business Perf
 Project 2: The client offers immersive cyber security training through an ‘escape room’ experience. The app was designed to engage users in the learning process with an existing computer game. The platform offers multiple storylines, sets of training videos, questions, and puzzles. Software now has 1-3 minute nano- and micro-learning modules that are easy to consume and memorable for any time, anywhere training. With weaknesses and strengths accurately measured, and potential gaps predicted and isolated, innovative individual and team training programs create proven, lasting change in user behavior.
 
 
-Languages and Frameworks:
+Languages and Frameworks:<br/>
 <img height="32" width="32" src="https://img.icons8.com/color/512/python--v1.png"/> Python <br/>
 <img height="32" width="32" src="https://img.icons8.com/ios/256/django.png"/> Django <br/>
 <img height="32" width="32" src="https://www.brcline.com/wp-content/uploads/2020/05/serverless-framework-logo.png"/> Serverless <br/>
