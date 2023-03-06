@@ -1,4 +1,4 @@
-<img  width=100% src="https://drive.google.com/uc?export=view&id=1O7KIKJUr_pXaysMVsxYibkfddolghByA" />
+<img  width=100% src="https://github.com/KhilenkoRoman/KhilenkoRoman/blob/master/Banner%20Github.jpg" />
 
 ### Hi there, Im a skilled Django/AWS serverless developer with 4+ years of experience. Highly competent in translating business needs into technical requirements.  Has a client-oriented mind, good time management, project management, and interpersonal skills. Participates as a high-level technical expert in coding, testing, and debugging new software or significant enhancements to existing software.
 
