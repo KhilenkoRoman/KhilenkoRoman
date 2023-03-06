@@ -1,7 +1,3 @@
-<style>
-  .icon-preview {filter: invert(1);}
-</style>
-
 <img  width=100% src="https://github.com/KhilenkoRoman/KhilenkoRoman/blob/master/Banner%20Github.jpg" />
 
 ### Hi there, Im a skilled Django/AWS serverless developer with 4+ years of experience. Highly competent in translating business needs into technical requirements.  Has a client-oriented mind, good time management, project management, and interpersonal skills. Participates as a high-level technical expert in coding, testing, and debugging new software or significant enhancements to existing software.
@@ -18,7 +14,7 @@ Languages and Frameworks:<br/>
 <img height="32" width="32" src="https://simpleicons.org/icons/django.svg"/> Django <br/>
 <img height="32" width="32" src="https://simpleicons.org/icons/serverless.svg"/> Serverless <br/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/serverless/white" />
-<img height="32" width="32" class="icon-preview" src="https://simpleicons.org/icons/serverless.svg">
+<img height="32" width="32" class="icon-preview" src="/serverless.svg">
 Technologies: 
 PostgreSQL, 
 Elasticsearch, 
