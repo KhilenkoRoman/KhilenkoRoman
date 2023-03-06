@@ -10,18 +10,18 @@ Project 2: The client offers immersive cyber security training through an ‘esc
 
 
 Languages and Frameworks:<br/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/white"/> Python <br/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/django/white"/> Django <br/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/serverless/white"/> Serverless <br/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/python"/> Python <br/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/django"/> Django <br/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/serverless"/> Serverless <br/>
 <br/>
 Technologies: <br/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/elasticsearch/white"/> Elasticsearch <br/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/celery/white"/> Celery <br/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/rabbitmq/white"/> RabbitMQ <br/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/nginx/white"/> Nginx <br/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/docker/white"/> Docker <br/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws/white"/> AWS (Lambda, StepFunctions, dynamom, SQS) <br/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/white"/> PostgreSQL <br/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/elasticsearch"/> Elasticsearch <br/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/celery"/> Celery <br/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/rabbitmq"/> RabbitMQ <br/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/nginx"/> Nginx <br/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/docker"/> Docker <br/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws"/> AWS (Lambda, StepFunctions, dynamom, SQS) <br/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql"/> PostgreSQL <br/>
 
 <!--
 **KhilenkoRoman/KhilenkoRoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
