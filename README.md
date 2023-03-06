@@ -10,10 +10,9 @@ Project 2: The client offers immersive cyber security training through an ‘esc
 
 
 Languages and Frameworks:<br/>
-<img height="32" width="32" style="filter: invert(100%)" src="https://simpleicons.org/icons/python.svg"/> Python <br/>
-<img height="32" width="32" src="https://simpleicons.org/icons/django.svg"/> Django <br/>
-<img height="32" width="32" src="https://simpleicons.org/icons/serverless.svg"/> Serverless <br/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/serverless/white">
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/white"/> Python <br/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/django/white"/> Django <br/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/serverless/white"/> Serverless <br/>
 Technologies: 
 PostgreSQL, 
 Elasticsearch, 
