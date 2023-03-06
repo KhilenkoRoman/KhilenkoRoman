@@ -13,8 +13,7 @@ Languages and Frameworks:<br/>
 <img height="32" width="32" style="filter: invert(100%)" src="https://simpleicons.org/icons/python.svg"/> Python <br/>
 <img height="32" width="32" src="https://simpleicons.org/icons/django.svg"/> Django <br/>
 <img height="32" width="32" src="https://simpleicons.org/icons/serverless.svg"/> Serverless <br/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/serverless/white" />
-<img height="32" width="32" class="icon-preview" src="/serverless.svg">
+<img height="32" width="32" style="filter: invert(1);" src="/serverless.svg">
 Technologies: 
 PostgreSQL, 
 Elasticsearch, 
