@@ -1,5 +1,5 @@
 <style>
-icon-preview {filter: invert(1);}
+  .icon-preview {filter: invert(1);}
 </style>
 
 <img  width=100% src="https://github.com/KhilenkoRoman/KhilenkoRoman/blob/master/Banner%20Github.jpg" />
@@ -18,7 +18,7 @@ Languages and Frameworks:<br/>
 <img height="32" width="32" src="https://simpleicons.org/icons/django.svg"/> Django <br/>
 <img height="32" width="32" src="https://simpleicons.org/icons/serverless.svg"/> Serverless <br/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/serverless/white" />
-<img class="icon-preview" src="https://simpleicons.org/icons/serverless.svg" loading="lazy" alt="Serverless icon">
+<img height="32" width="32" class="icon-preview" src="https://simpleicons.org/icons/serverless.svg">
 Technologies: 
 PostgreSQL, 
 Elasticsearch, 
