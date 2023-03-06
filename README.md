@@ -18,7 +18,7 @@ Languages and Frameworks:<br/>
 <img height="32" width="32" src="https://simpleicons.org/icons/django.svg"/> Django <br/>
 <img height="32" width="32" src="https://simpleicons.org/icons/serverless.svg"/> Serverless <br/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/serverless/white" />
-<img class="icon-preview" src="/icons/serverless.svg" loading="lazy" alt="Serverless icon">
+<img class="icon-preview" src="https://simpleicons.org/icons/serverless.svg" loading="lazy" alt="Serverless icon">
 Technologies: 
 PostgreSQL, 
 Elasticsearch, 
