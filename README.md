@@ -3,7 +3,7 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
 
-<img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
+<img height="32" width="32" src="https://img.icons8.com/ios/512/python--v1.png" />
 
 <!--
 **KhilenkoRoman/KhilenkoRoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
